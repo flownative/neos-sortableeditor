@@ -1,5 +1,7 @@
 # Sortable asset and references editor for Neos
 
+sponsored by [dotpulse.ch](http://dotpulse.ch)
+
 These two editors make assets and references sortable in the Neos inspector.
 This package is just meant as a replacement for projects that need it now, a PR to Neos core is under review and
 the feature should be included in the next Neos release.
