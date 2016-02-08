@@ -1,0 +1,5 @@
+TYPO3:
+  Neos:
+    userInterface:
+      requireJsPathMapping:
+        'Flownative.NeosSortableEditor': 'resource://Flownative.NeosSortableEditor/Public/JavaScript'

@@ -1,0 +1,13 @@
+{
+    "description": "Provides the sortable inspector editor for neos as separate package",
+    "type": "typo3-flow-package",
+    "name": "flownative/neos-sortableeditor",
+    "require": {
+        "typo3/neos": "*"
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Flownative.NeosSortableEditor"
+        }
+    }
+}
