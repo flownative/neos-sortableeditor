@@ -6,6 +6,7 @@
         "typo3/neos": "*"
     },
     "extra": {
+        "installer-name": "Flownative.NeosSortableEditor",
         "neos": {
             "package-key": "Flownative.NeosSortableEditor"
         }
