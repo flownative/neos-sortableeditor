@@ -3,3 +3,8 @@ TYPO3:
     userInterface:
       requireJsPathMapping:
         'Flownative.NeosSortableEditor': 'resource://Flownative.NeosSortableEditor/Public/JavaScript'
+      inspector:
+        editors:
+          'Flownative.NeosSortableEditor/SortableAssetEditor':
+            editorOptions:
+              fileChooserLabel: 'TYPO3.Neos:Main:choose'
